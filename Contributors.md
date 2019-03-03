@@ -1,4 +1,4 @@
-﻿# Contributors
+-﻿# Contributors
   [Robert Bohn] (https://github.com/RobertBohn)
   [Pawan Kumar Jha] (https://github.com/88pawankumarjha)
 - [Gaayan Verma] (https://github.com/GaayanVerma)
@@ -6062,7 +6062,7 @@ Conor Shields (https://github.com/cshields236)
 - [imyrfield](https://github.com/imyrfield)
 - [Rahul R](https://github.com/RahulR19)
 - [melisaim](https://github.com/MelisaIm)
-- [Vineet Brahmankar](https://github.com/immaxx88)
+- [Vineet S Brahmankar](https://github.com/immaxx88)
 - [zbelway](https://github.com/zbelway)
 - [MacStan](https://github.com/MacStan)
 - [kkaiser87](https://github.com/kkaiser87)
